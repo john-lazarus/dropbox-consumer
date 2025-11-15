@@ -272,9 +272,9 @@ Available tags:
 
 ## License
 
-Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+Licensed under the MIT License.
 
-Personal use, modification, and sharing permitted with attribution. Commercial use requires permission.
+See the [LICENSE](LICENSE) file for details.
 
 ## Support
 
